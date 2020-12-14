@@ -1,0 +1,44 @@
+<Name> Stavros arg </Name> 
+<AFM> 130456095 </AFM> 
+<Status> Married </Status> 
+<Income> 22570 </Income>
+
+
+
+<Receipts>
+
+<ReceiptID> 153453 </ReceiptID> 
+<Date> 25/2/2014 </Date> 
+<Kind> Entertainment </Kind> 
+<Amount> 2000 </Amount> 
+<Company> Hand Made Clothes </Company> 
+<Country> Greece </Country> 
+<City> Athens </City> 
+<Street> Kaloudi </Street> 
+<Number> 10 </Number>  
+
+
+
+<ReceiptID> 2342332443 </ReceiptID>
+<Date> 25/5/2014 </Date> 
+<Kind> Basic </Kind> 
+<Amount> 2500 </Amount> 
+<Company> Hand Made Clothes </Company> 
+<Country> Greece </Country> 
+<City> Athens </City> 
+<Street> Kaloudi </Street> 
+<Number> 10 </Number>
+
+
+<ReceiptID> 3788554548435 </ReceiptID>
+<Date> 25/12/2014 </Date> 
+<Kind> Other </Kind> 
+<Amount> 2500 </Amount> 
+<Company> Hand Made Clothes </Company> 
+<Country> Greece </Country> 
+<City> peristeri </City> 
+<Street> Kaloudi </Street> 
+<Number> 10 </Number>
+
+
+<Receipts>

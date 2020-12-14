@@ -1,0 +1,51 @@
+<Name> Apostolos Zarras </Name> 
+<AFM> 130456093 </AFM> 
+<Status> Married Filing Jointly </Status> 
+<Income> 22570 </Income>
+
+
+
+<Receipts>
+
+
+<ReceiptID> 10 </ReceiptID> 
+<Date> 25/8/2014 </Date> 
+<Kind> Basic </Kind> 
+<Amount> 2000 </Amount> 
+<Company> Hand Made Clothes </Company> 
+<Country> Greece </Country> 
+<City> Ioannina </City> 
+<Street> Kaloudi </Street> 
+<Number> 10 </Number>  
+
+
+
+<ReceiptID> 20 </ReceiptID>
+<Date> 25/7/2014 </Date> 
+<Kind> Basic </Kind> 
+<Amount> 2500 </Amount> 
+<Company> Hand Made Clothes </Company> 
+<Country> Greece </Country> 
+<City> Ioannina </City> 
+<Street> Kaloudi </Street> 
+<Number> 10 </Number>
+
+
+<ReceiptID> 30 </ReceiptID>
+<Date> 25/5/2014 </Date> 
+<Kind> Basic </Kind> 
+<Amount> 2500 </Amount> 
+<Company> Trips </Company> 
+<Country> Greece </Country> 
+<City> Ioannina </City> 
+<Street> Kaloudi </Street> 
+<Number> 10 </Number>
+
+
+
+
+
+
+<Receipts>
+
+

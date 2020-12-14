@@ -1,0 +1,45 @@
+<Name> kostas arg </Name> 
+<AFM> 130456097 </AFM> 
+<Status> Married Filing Jointly </Status> 
+<Income> 22577 </Income>
+
+
+
+<Receipts>
+
+
+
+
+<ReceiptID> 2 </ReceiptID>
+<Date> 25/7/2014 </Date> 
+<Kind> Travel </Kind> 
+<Amount> 2500 </Amount> 
+<Company> Hand Made Clothes </Company> 
+<Country> Greece </Country> 
+<City> Ioannina </City> 
+<Street> Kaloudi </Street> 
+<Number> 10 </Number>
+
+
+<ReceiptID> 3 </ReceiptID>
+<Date> 25/5/2014 </Date> 
+<Kind> Basic </Kind> 
+<Amount> 2500 </Amount> 
+<Company> Trips </Company> 
+<Country> Greece </Country> 
+<City> Ioannina </City> 
+<Street> Kaloudi </Street> 
+<Number> 10 </Number>
+
+<ReceiptID> 3 </ReceiptID>
+<Date> 25/5/2014 </Date> 
+<Kind> Basic </Kind> 
+<Amount> 2500 </Amount> 
+<Company> Trips </Company> 
+<Country> Greece </Country> 
+<City> Ioannina </City> 
+<Street> Kaloudi </Street> 
+<Number> 10 </Number>
+
+
+<Receipts>

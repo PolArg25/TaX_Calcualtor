@@ -1,0 +1,64 @@
+Name: pol arg 
+AFM: 130456099
+Status: Married Filing Jointly 
+Income: 92570 
+
+
+Receipts: 
+
+Receipt ID: 15 
+Date: 25/2/2014 
+Kind: Entertainment
+Amount: 500 
+Company: Hand Made Clothes 
+Country: Greece 
+City: Ioannina 
+Street: Kaloudi  
+Number: 10 
+
+
+
+Receipt ID: 25 
+Date: 25/2/2014 
+Kind: Otryr 
+Amount: 500.60 
+Company: Hand Made Clothes 
+Country: Greece 
+City: Ioannina 
+Street: Kaloudi  
+Number: 10 
+
+Receipt ID: 40 
+Date: 25/2/2014 
+Kind: Basic 
+Amount: 7000 
+Company: Hand Made Clothes 
+Country: Greece 
+City: Ioannina 
+Street: Kaloudi  
+Number: 10 
+
+
+Receipt ID: 55 
+Date: 25/2/2014 
+Kind: Travel 
+Amount: 300 
+Company: Hand Made Clothes 
+Country: Greece 
+City: Ioannina 
+Street: Kaloudi  
+Number: 10 
+
+
+Receipt ID: 65 
+Date: 25/2/2014 
+Kind: Health 
+Amount: 800 
+Company: HealthFit 
+Country: Greece 
+City: Ioannina 
+Street: Kaloudi  
+Number: 10 
+
+
+
